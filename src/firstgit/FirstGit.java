@@ -20,8 +20,9 @@ public class FirstGit {
         int x = 5;
         int y = 6;
         for(int i=0; i < 3; i++){
-            System.out.println("The count it " + i);
+            System.out.println("The count is: " + i);
         }
+        int z = 0;
     }
     
 }
